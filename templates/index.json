@@ -104,20 +104,22 @@
         "row_iNhghy": {
           "type": "row",
           "settings": {
-            "caption": "Alt yazı",
-            "heading": "Satır",
-            "text": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>",
-            "button_label": "Düğme etiketi",
+            "image": "shopify://shop_images/pexels-pixelcop-2799533.jpg",
+            "caption": "DXXX",
+            "heading": "XXXXX WATCH",
+            "text": "<p>product information product information product information product information product information product information product information product information product information product information product information product information </p>",
+            "button_label": "product",
             "button_link": ""
           }
         },
         "row_gMAePW": {
           "type": "row",
           "settings": {
-            "caption": "Alt yazı",
-            "heading": "Satır",
-            "text": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>",
-            "button_label": "Düğme etiketi",
+            "image": "shopify://shop_images/pexels-blaq1sensei-13155695.jpg",
+            "caption": "dxxx",
+            "heading": "XXXX WATCH",
+            "text": "<p>product information product information product information product information product information product information product information product information product information product information product information product information </p>",
+            "button_label": "product",
             "button_link": ""
           }
         }
