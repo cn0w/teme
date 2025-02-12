@@ -19,6 +19,7 @@
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "animations_reveal_on_scroll": true,
+    "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
@@ -142,8 +143,8 @@
         "disabled": false,
         "settings": {
           "button_color": "#000000",
-          "secondary_color": "#FFFFFF",
-          "ternary_color": "#ffffff",
+          "secondary_color": "#ffffff",
+          "ternary_color": "#121212",
           "button_icon": "chat_bubble",
           "button_text": "chat_with_us",
           "button_horizontal_position": "bottom_right",
