@@ -45,7 +45,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/pexels-valentinantonucci-691640.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -193,7 +193,7 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
-        "padding_top": 20,
+        "padding_top": 8,
         "padding_bottom": 0
       }
     },
@@ -235,8 +235,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 40
       }
     }
   },
