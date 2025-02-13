@@ -111,11 +111,23 @@
             "button_label": "product",
             "button_link": ""
           }
+        },
+        "row_N4bhn7": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/pexels-blaq1sensei-13155695.jpg",
+            "caption": "Alt yazı",
+            "heading": "Satır",
+            "text": "<p>Metni bir görselle eşleyerek seçtiğiniz ürüne, koleksiyona veya blog gönderisine dikkat çekin. Stok durumu, stil hakkındaki ayrıntıları ekleyin, hatta inceleme sağlayın.</p>",
+            "button_label": "Düğme etiketi",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "row_NDFmM7",
-        "row_iNhghy"
+        "row_iNhghy",
+        "row_N4bhn7"
       ],
       "settings": {
         "image_height": "medium",
