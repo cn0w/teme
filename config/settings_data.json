@@ -139,11 +139,16 @@
     },
     "content_for_index": [],
     "blocks": {
+      "4935202709820522637": {
+        "type": "shopify://apps/trustshop-reviews/blocks/review-embed/18b0c4cc-5411-4b6e-922d-34fdc2f30ab9",
+        "disabled": false,
+        "settings": {}
+      },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
-          "button_color": "#000000",
+          "button_color": "#121212",
           "secondary_color": "#ffffff",
           "ternary_color": "#121212",
           "button_icon": "chat_bubble",
@@ -153,9 +158,9 @@
           "greeting_message": ""
         }
       },
-      "4935202709820522637": {
-        "type": "shopify://apps/trustshop-reviews/blocks/review-embed/18b0c4cc-5411-4b6e-922d-34fdc2f30ab9",
-        "disabled": false,
+      "13768625480086291342": {
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "disabled": true,
         "settings": {}
       }
     },
