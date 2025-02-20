@@ -1,0 +1,251 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>LexNow <\/strong>",
+            "heading_size": "hxl"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>For those who value time, the best watches are here!<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-valentinantonucci-691640.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>We don’t just measure time; we combine it with style and quality!<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At <strong>LexNow <\/strong>, we believe that a watch is more than just a timepiece—it’s a statement of style, elegance, and precision. Our collection features high-quality watches designed for those who appreciate craftsmanship and timeless fashion.<br\/><br\/>Explore our latest arrivals, stay updated with exclusive offers, and be the first to hear about special announcements. Thank you for being a part of our journey your perfect watch awaits<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "multirow_hpTTMt": {
+      "type": "multirow",
+      "blocks": {
+        "row_NDFmM7": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-vics-10216243.jpg",
+            "caption": "",
+            "heading": "Women's Watch",
+            "text": "<p>Our elegantly designed, more delicate, and minimalist watches specially made for women will be available soon<\/p>",
+            "button_label": "Soon",
+            "button_link": ""
+          }
+        },
+        "row_iNhghy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixelcop-2799533.jpg",
+            "caption": "",
+            "heading": "Lex Luxury Watch",
+            "text": "<p>Our watches, designed for luxury settings to elevate your style and make a statement wherever you go, will be available soon. <\/p>",
+            "button_label": "Soon",
+            "button_link": ""
+          }
+        },
+        "row_N4bhn7": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-blaq1sensei-13155695.jpg",
+            "caption": "",
+            "heading": "Lex Accessory",
+            "text": "<p>We will soon provide accessories that will perfectly complement your watches for you.<\/p>",
+            "button_label": "Soon",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_NDFmM7",
+        "row_iNhghy",
+        "row_N4bhn7"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 40
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "season-discount"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Special Series",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-1",
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_bWr3bR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bWRENH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thank You For Choosing Us.",
+            "heading_size": "h1"
+          }
+        },
+        "text_XVAKK3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your feedback and thoughts about our brand are important to us. Please don't forget to leave a review. <\/p>"
+          }
+        },
+        "button_Ur96Un": {
+          "type": "button",
+          "settings": {
+            "button_label": "Info",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bWRENH",
+        "text_XVAKK3",
+        "button_Ur96Un"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "multirow_hpTTMt",
+    "featured_collection",
+    "collage",
+    "rich_text_bWr3bR"
+  ]
+}
